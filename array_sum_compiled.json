@@ -15,7 +15,7 @@
         "0x1104800180018000",
         "0x800000000000010fffffffffffffffffffffffffffffffffffffffffffffffa",
         "0x480680017fff8000",
-        "0x2aaaaaaaaaaaab0555555555555555555555555555555555555555555555558",
+        "0x7",
         "0x1104800180018000",
         "0x800000000000010fffffffffffffffffffffffffffffffffffffffffffffff6",
         "0x208b7fff7fff7ffe"
@@ -240,7 +240,7 @@
                 },
                 "hints": [],
                 "inst": {
-                    "end_col": 25,
+                    "end_col": 100,
                     "end_line": 7,
                     "input_file": {
                         "filename": "array_sum.cairo"
@@ -265,7 +265,7 @@
                 },
                 "hints": [],
                 "inst": {
-                    "end_col": 26,
+                    "end_col": 101,
                     "end_line": 7,
                     "input_file": {
                         "filename": "array_sum.cairo"
